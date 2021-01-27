@@ -1,4 +1,4 @@
-# TinderClone-MERN
+# Tinder Clone using MERN stack
 ## Description
 This is a Full-Stack MERN project Tinder clone for learning purpose.
 
